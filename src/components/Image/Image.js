@@ -11,17 +11,7 @@ const Image=()=>{
             <div class="row">
             <div class="col-sm">
             <div class="card" >
-            <img class="card-img-top" src={img1} alt="Card image cap" height="200px"></img>
-            <div class="card-body">
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            </div>
-            </div>
-             
-             
-            </div>
-            <div class="col-sm">
-            <div class="card" >
-            <img class="card-img-top" src={img2} alt="Card image cap" height="200px"></img>
+            <img class="card-img-top" src={img2} alt="Card image cap" height="20%"></img>
             <div class="card-body">
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
@@ -31,13 +21,12 @@ const Image=()=>{
             </div>
             <div class="col-sm">
             <div class="card" >
-            <img class="card-img-top" src={img3} alt="Card image cap" height="200px"></img>
+            <img class="card-img-top" src={img3} alt="Card image cap" height="20%"></img>
             <div class="card-body">
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
             </div> 
-            
-            
+             
             </div>
             </div>
             </div>
