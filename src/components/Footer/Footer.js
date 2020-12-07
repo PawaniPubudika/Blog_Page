@@ -6,8 +6,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 const Footer=()=>{
 
     return(
-        <div className={styles.footer}>
-            
+        <div className={styles.footer}> 
         <div class="container">
         <br/><br/>
         <div class="row">
@@ -33,12 +32,10 @@ const Footer=()=>{
             One of three columns
             <br/>
         <h7 className={styles.contact}>ContactUs www.abc.lk </h7>
-    
         </div>
         </div>
         </div>
         </div>
-
     )
 }
 
